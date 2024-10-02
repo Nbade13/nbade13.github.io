@@ -237,6 +237,13 @@ html, body {
     height: 30px;
 }
 
+.social-icons i {
+    width: 30px;
+    height: 30px;
+    font-color: #fff;
+    color: white;
+}
+
 .social-icons img.telegram,
 .social-icons img.tiktok,
 .social-icons img.snapchat {
